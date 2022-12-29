@@ -51,7 +51,7 @@ if(isset($_POST['nome']))
 			 	{
 					?>
 					<div class="msg_erro">
-						Email já cadastrado, retorne e faça login.
+						Email já em uso, retorne para a tela de login.
 					</div>
 					<?php
 			 	}
